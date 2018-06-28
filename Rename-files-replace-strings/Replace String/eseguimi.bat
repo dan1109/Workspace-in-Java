@@ -1,0 +1,1 @@
+java -Xms512M -Xmx512M -jar ReplaceString.jar -o true
